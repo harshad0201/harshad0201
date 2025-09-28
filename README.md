@@ -29,8 +29,6 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 - 🎯 **Current Role:** Data Analyst at eClerx  
 - 🔧 **Core Skills:** Data Cleaning, Reporting Automation, Dashboard Management  
 - 🌐 **Tools:** SQL, Python (Pandas, NumPy), Excel, Power BI, Tableau  
-- 📊 **Projects:** Bank Analytics Dashboard, Courier Invoice Automation  
-- 🏅 **Achievements:** National-level athlete in Skating and Korfball  
 - 🎒 **Education:** B.Tech in Information Technology, Priyadarshini College of Engineering (2019-2023)
 
 ---
