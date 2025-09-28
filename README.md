@@ -56,5 +56,5 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 ### 🌱 GitHub Activity Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshad&theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
