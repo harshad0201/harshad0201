@@ -64,19 +64,3 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshad0201&theme=gruvbox&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
-
----
-
-### 📅 GitHub Contribution Heatmap  
-
-<p align="center">
-  <img src="https://github.com/harshad0201/harshad0201/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
-### 👀 Profile Views  
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=harshad0201&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
