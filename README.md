@@ -1,11 +1,13 @@
-# 🏄‍♂️ Harshad Dhanraj Umate  
+# 🏄‍♂️ Harshad Umate  
 
 **`Data Analyst | Problem Solver | Automation Enthusiast`**
 
 I'm a data analyst passionate about transforming raw data into meaningful insights and building solutions that drive business performance. Skilled in SQL, Python, Excel, Power BI, Tableau, and reporting automation. Currently working on handling large-scale data audits, dashboard management, and workflow automation across global projects.
 
 📧 **Email:** harshadumate65@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/harshad0201](https://www.linkedin.com/in/harshad0201/)  
+💻 **LinkedIn:** [linkedin.com/in/harshad0201](https://www.linkedin.com/in/harshad0201/)     
+🤝 **Personal:** [https://www.instagram.com/harshad_2.1.1](https://www.instagram.com/harshad_2.1.1?igsh=MWM3N2c3cndvMjc0bQ%3D%3D&utm_source=qr)     
+👨‍🎨 **Art:** [https://www.instagram.com/passion_flames](https://www.instagram.com/passion_flames?igsh=MWtqdm54eTU5enBodw%3D%3D&utm_source=qr)
 
 ### 🧰 Languages and Tools
 
