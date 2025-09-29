@@ -46,7 +46,7 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 
 ---
 
-### 🎯 Goals for 2025  
+### 🎯 Goals for 2026  
 
 - Master **Snowflake** and **BigQuery** for cloud analytics  
 - Build advanced ETL workflows and automation pipelines  
