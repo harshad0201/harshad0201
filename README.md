@@ -39,8 +39,8 @@ I'm a data analyst passionate about transforming raw data into meaningful insigh
 
 | Project Name              | Description                                                                                   | Tech Stack          | Link |
 |---------------------------|-----------------------------------------------------------------------------------------------|---------------------|------|
-| **Bank Analytics Dashboard** | Built a data visualization dashboard to track customer transactions and KPIs for decision-making. | Power BI, Excel, SQL | [View Repository](https://github.com/harshad0201/Bank-Analytics-Dashboard) |
-| **Courier Invoice Automation** | Automated invoice generation and reporting process for a courier company, reducing manual effort. | Python, Excel, Pandas | [View Repository](https://github.com/harshad0201/Courier-Invoice-Automation) |
+| **Bank Analytics Dashboard** | Built a data visualization dashboard to track customer transactions and KPIs for decision-making. | Power BI, Excel, SQL | [View Repository](https://github.com/harshad0201/Bank-Analytics-Project) |
+| **Courier Invoice Automation** | Automated invoice generation and reporting process for a courier company, reducing manual effort. | Python, Excel, Pandas | [View Repository](https://github.com/harshad0201/Data-Analyst-Python-Project-Cointab-) |
 
 > *More projects coming soon...*
 
